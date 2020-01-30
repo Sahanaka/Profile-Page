@@ -1,0 +1,57 @@
+.center 
+{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+p
+{
+    color : white;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p1
+{
+    color : white;
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p2
+{
+    color : white;
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1
+{
+    color:white;
+    text-align: center;
+}
+
+th, td
+{
+    color:white;
+}
+
+li
+{
+    color:white;
+    font-size: larger;
+}
+
+.yourElement 
+{
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+}
